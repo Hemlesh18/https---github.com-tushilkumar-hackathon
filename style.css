@@ -311,3 +311,13 @@ img {
     left: 50%;
     transform: translateX(-50%);
 }
+
+.credits {
+    text-align: center;
+    font-size: 12px;
+    color: #c2c2c2;
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
